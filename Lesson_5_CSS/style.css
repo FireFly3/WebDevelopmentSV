@@ -1,0 +1,37 @@
+body {
+    background-color: lightsteelblue;
+}
+.header {
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+}
+
+.title{
+    text-shadow: 1px 1px 1px red;
+}
+
+.header_img {
+    height: 100px;
+    margin-left: 15px;
+}
+
+.text {
+    color: brown;
+    margin: 0 15px
+}
+
+.block {
+    display: flex;
+    justify-content: center;
+}
+
+.block_img{
+    height: 150px;
+}
+
+.part_title {
+    display: flex;
+    justify-content: center;
+    text-shadow: 5px 5px 3px darkgreen;
+}

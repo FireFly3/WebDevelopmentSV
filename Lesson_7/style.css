@@ -1,0 +1,18 @@
+.block {
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    box-shadow: 0 0 10px;
+    position: relative;
+    margin: auto;
+}
+
+.ring {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: red;
+    margin: auto;
+    position: relative;
+    top: 75px;
+}

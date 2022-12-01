@@ -1,0 +1,41 @@
+/** Leave this code in place. It will give a white background color
+  to your music player when you add an audio tag in HTML **/
+
+audio::-webkit-media-controls-panel {
+    background: #ffffff;
+}
+
+.img {
+    width: 100%;
+}
+
+audio {
+    width: 80%;
+}
+
+.audio {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    font-size: 30px;
+    font-weight: bold;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.artist {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    font-weight: bold;
+    opacity: 30%;
+}
+
+.screen {
+    width: 500px;
+    height: 600px;
+    box-shadow: 0 0 15px #404258;
+}

@@ -1,0 +1,11 @@
+body{
+    background: red;         /* Change the color like, red, yellow */
+    color: blue;            /* Change the color like, red, yellow */
+    font-size: 35px;            /* Change the size, 0px to up 100px   */
+    font-weight: normal;       /* Change the weight to lighter, normal, bold */
+    text-align: center;          /* Change the text aligen to left or center */
+    margin-top: 100px;           /* Change the margin from 0px and upwards */
+}
+.root{
+    color: aqua;
+}

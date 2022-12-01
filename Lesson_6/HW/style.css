@@ -1,0 +1,55 @@
+.box {
+    width: 360px;
+    height: 1030px;
+    padding: 25px 0 15px 25px;
+    border-top: 5px solid black;
+    border-left: 3px solid black;
+    border-right: 1px solid black;
+}
+
+.red {
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    border: 15px solid brown;
+}
+
+.red_1 {
+    width: 301px;
+    height: 151px;
+    background-color: darksalmon;
+    position: relative;
+    top: 150px;
+}
+
+.yellow {
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    border: 15px solid gold;
+    margin: 10px 0;
+}
+
+.yellow_1 {
+    height: 151px;
+    width: 151px;
+    background-color: darksalmon;
+    position: relative;
+    top: 150px;
+    left: 150px;
+}
+
+.green {
+    height: 300px;
+    width: 300px;
+    background-color: chartreuse;
+    border: 15px solid green;
+}
+
+.green_1 {
+    height: 151px;
+    width: 150px;
+    background-color: darksalmon;
+    position: relative;
+    top: 150px;
+}

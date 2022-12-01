@@ -1,0 +1,89 @@
+/* Choose the appropriate selector and style what is specified! Only write here in the CSS document, do not change in the HTML document!*/
+
+
+
+/* 1. The <body> element should have background color #bdc3c7*/
+body {
+    background-color: #bdc3c7;
+}
+
+/* 2. Heading <h1> should have color #9b59b6*/
+.container>h1{
+    color: #9b59b6;
+}
+
+/* 3. All subheadings <h2> should have an orange color */
+
+h2{
+    color: orange;
+}
+
+/* 4. All <li> elements in a ul list should have blue color (choose any hexadecimal color)*/
+
+li {
+    color: #1738bb;
+}
+
+/* 5. All p should have a yellow background color*/
+
+p{
+    background-color: yellow;
+}
+
+/* 6. All input fields (input) must have a border of '3px solid red'*/
+
+input{
+    border: 3px solid red;
+}
+
+/* 7. All elements with class 'hello' must have a white background*/
+
+.hello{
+    background-color: white;
+}
+
+/* 8. The element with id 'special' should have a border of '2px solid blue'*/
+
+#special{
+    border: 2px solid blue;
+}
+
+/* 9. All <p> and <div> should have the color black #000*/
+
+p, div{
+    color: #000;
+}
+
+/* 10. All <p> that are nested (inside) a div must have font-size: 22px*/
+
+div>p{
+    font-size: 22px;
+}
+
+/* 11. Give all em in the fourth div with class="fourth" a 'text-docration: underline;*/
+
+.fourth {
+    text-decoration: underline;
+}
+
+/* 12. Make the <h1> element turn blue when the mouse is over the element (:hover) */
+
+h1 :hover{
+    color: blue;
+}
+
+/* 13. Make all visited <a> elements gray (:visited) */
+
+a :visited{
+    color: gray;
+}
+
+/* 14. All input fields (input) of type 'text' must have a gray background */
+
+input text{
+    background-color: gray;
+}
+
+/* 15. All checkboxes that are 'checked' should have a left margin of 50px (margin-left: 50px) */
+
+input

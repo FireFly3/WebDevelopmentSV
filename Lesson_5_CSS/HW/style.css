@@ -1,0 +1,21 @@
+.red {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: 15px solid brown;
+}
+
+.yellow {
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border: 15px solid gold;
+margin: 10px 0;
+}
+
+.green {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    border: 15px solid darkgreen;
+}

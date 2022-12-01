@@ -1,0 +1,20 @@
+body{
+    margin-right: 0;
+}
+
+.top_container {
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+}
+
+.middle_container {
+    background-color: darkgreen;
+    height: 200px;
+    width: 200px;
+}
+
+.bottom_container{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
